@@ -1,2 +1,4 @@
-# web-335
-Repository for Introduction to NoSQL class at Bellevue University
+# WEB 335 Introduction to NoSQL
+## Contributors
+* Richard Krasso
+* William Watlington
