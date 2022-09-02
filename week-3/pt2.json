@@ -1,0 +1,24 @@
+{
+    "book": [
+        {
+            "book_name": "The Way of Kings",
+            "book_price": "14.99",
+            "book_isbn": "9780765365279"
+        }
+    ],
+    "publisher": [
+        {
+            "publisher_name": "TOR",
+            "publisher_code": "1894",
+            "publisher_address": "4 Jah Keved"
+        }
+    ],
+    "author": [
+        {
+            "author_first_name": "Brandon",
+            "author_last_name": "Sanderson",
+            "author_phone": "5439388383",
+            "author_email": "bransan@bridge4.com"
+        }
+    ]
+}

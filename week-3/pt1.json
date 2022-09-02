@@ -1,0 +1,32 @@
+{
+    "user": "username",
+    "roles": [
+        {
+            "role1": [
+                {
+                    "role-name": "admin",
+                    "permissions": [
+                        {
+                            "permission1": "admin-access",
+                            "permission2": "remote-access"
+                        }
+                    ]                   
+                }               
+            ] 
+        }, 
+        {
+            "role1": [
+                {
+                    "role-name": "IT",
+                    "permissions": [
+                        {
+                            "permission1": "admin-access",
+                            "permission2": "remote-access",
+                            "permission3": "purchase-access"
+                        }
+                    ]                   
+                }             
+            ] 
+        }
+    ]
+}
