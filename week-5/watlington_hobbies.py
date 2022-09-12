@@ -19,5 +19,4 @@ for day in days:
         print("Today is a work day. It is: " + day)
 
 input("test")
-
-        
+  
