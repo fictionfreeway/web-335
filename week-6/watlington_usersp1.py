@@ -10,7 +10,7 @@ from pymongo import MongoClient
 
 
 # string from MongoDB for to connect to database
-client = MongoClient("mongodb+srv://web335_user:s3cret@cluster0.ug54bka.mongodb.net/web33DBretryWrites=true&w=majority")
+client = MongoClient("mongodb+srv://whatabookuser:s3cret@cluster0.ug54bka.mongodb.net/whatabookretryWrites=true&w=majority")
 
 # variable for accessing the web335 database
 db = client['web33DB']
